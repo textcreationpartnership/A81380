@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devill seen at St. Albons. Being a true relation how the devill was seen there in a cellar, in the likenesse of a ram; and how a butcher came and cut his throat, and sold some of it, and dressed the rest for himselfe, inviting many to supper, who eat of it. Attested by divers letters, of men of very good credit in the towne. Whereunto is added a comment, for the better understanding of the unlearned, or ignorant. Printed for confutation of those that beleeve there are no such things as spirits or devils.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81380</idno>
+            <idno type="STC">Wing D1221</idno>
+            <idno type="STC">Thomason E475_23</idno>
+            <idno type="STC">ESTC R205411</idno>
+            <idno type="EEBO-CITATION">99864807</idno>
+            <idno type="PROQUEST">99864807</idno>
+            <idno type="VID">162479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162479)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devill seen at St. Albons. Being a true relation how the devill was seen there in a cellar, in the likenesse of a ram; and how a butcher came and cut his throat, and sold some of it, and dressed the rest for himselfe, inviting many to supper, who eat of it. Attested by divers letters, of men of very good credit in the towne. Whereunto is added a comment, for the better understanding of the unlearned, or ignorant. Printed for confutation of those that beleeve there are no such things as spirits or devils.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Dec: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devil --  Humor --  Early works to 1800.</term>
+               <term>English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162479:1" rendition="simple:additions"/>
+            <p>THE Devill ſeen at St. Albons. BEING A TRUE RELATION HOW The Devill was ſeen there in a Cel<g ref="char:EOLhyphen"/>lar, in the likeneſſe of a Ram; and how a Butcher came and cut his throat, and ſold ſome of it, and dreſſed the reſt for himſelfe, inviting many to Sup<g ref="char:EOLhyphen"/>per, who eat of it. Atteſted by divers Letters, of men of ve<g ref="char:EOLhyphen"/>ry good credit in the Towne. Whereunto is added a Comment, for the better underſtanding of the unlearned, or Ignorant.</p>
+            <p>Printed for confutation of thoſe that beleeve there are no ſuch things as Spirits or Devils.</p>
+            <p>
+               <hi>Sunt mala, at tu non meliora facis.</hi>
+            </p>
+            <p>Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162479:2"/>
+            <pb n="1" facs="tcp:162479:2"/>
+            <head>THE Devill ſeen at St. Albons. BEING A TRUE RELATION HOW The Devill was ſeen there in a Cel<g ref="char:EOLhyphen"/>lar, in the likeneſſe of a Ram; and how a Butcher came, and cut his throat, and ſold ſome of it, and dreſſed the reſt for himſelfe, inviting many to Sup<g ref="char:EOLhyphen"/>per, who eat of it.</head>
+            <p>
+               <seg rend="decorInit">S</seg>aint <hi>Albones</hi> is a goodly Towne,<note place="margin">The deſcrip<g ref="char:EOLhyphen"/>tion of that goodly Town St. <hi>Albons,</hi> with the di<g ref="char:EOLhyphen"/>ſtance thereof from <hi>London.</hi>
+               </note> ſcituate in the County of <hi>Hertford;</hi> and of di<g ref="char:EOLhyphen"/>ſtance from <hi>London</hi> (according to the compute of the ableſt Carriers of that Roade) ſome twenty miles. This Town is very ancient, or as I may ſo ſay, a Borough Town, ſending Burgomaſters to the <hi>Parliament.</hi> It is like<g ref="char:EOLhyphen"/>wiſe
+<pb n="2" facs="tcp:162479:3"/>a Corporation,<note place="margin">The Maior.</note> having yearly a Maior of Wor<g ref="char:EOLhyphen"/>ſhip elected for the better adminiſtration of Ju<g ref="char:EOLhyphen"/>ſtice.<note place="margin">The Church.</note> The Church belonging to this Towne is of a curious ſtructure, and very large, famous for the Tombe of <hi>Humphrey,</hi>
+               <note place="margin">Tombe of Duke <hi>Hum<g ref="char:EOLhyphen"/>phrey.</hi>
+               </note> called the good Duke of <hi>Gloceſter,</hi> ſonne of King <hi>Henry</hi> the fourth, brother to King <hi>Henry</hi> the fifth, and uncle to King <hi>Henry</hi> the ſixth,<note place="margin">See <hi>Hollen<g ref="char:EOLhyphen"/>ſhead, Martin, Stow, Speed,</hi> and <hi>Shakspeare</hi> in the ſecond part of <hi>Henry</hi> the ſixth.</note> in whoſe raigne the ſaid good Duke was murthered, and was buried in this Church of Saint <hi>Albons.</hi> This Duke leaving behind him the beſt monument, a good name, had his memory much reverenced, inſomuch, that many (thoſe being ſu<g ref="char:EOLhyphen"/>perſtitious times) held him for a Saint.<note place="margin">The Duke a Saint.</note> Now it for<g ref="char:EOLhyphen"/>tuned that an old man, having been long impotent in his feet,<note place="margin">Here begins the ſtory of the old man, <hi>Shakspeare, ut ſupra.</hi>
+               </note> could not be cured; but after he had ſpent all he had on Chirurgions and Doctors, was at laſt faine to be content with this unreaſonable ſalve, You are paſt cure. This old man I ſay, after all this, yet diſpaired not, but calling to minde this good Duke of <hi>Gloceſter,</hi> hre reſolved to make him his particular Saint, and impoſing unto himſelfe a confidence,<note place="margin">He makes the Duke his par<g ref="char:EOLhyphen"/>ticular Saint.</note> that by going to this good Dukes tombe, and invoking him for help, that thereup<g ref="char:EOLhyphen"/>on he ſhould be cured.</p>
+            <p>This poore ſoule went unto the Tombe, rejoyce<g ref="char:EOLhyphen"/>ing as he went,<note place="margin">He goes to his Tombe.</note> with a conceit of being made whole; but (a thing not to be ſpoken) the old man no ſoon<g ref="char:EOLhyphen"/>er offered up his hands in Orriſons to the Duke,<note place="margin">Infandum</note> but the Duke ſent downe ſuch an Almes into his legs, that the old man went away friſking and skip<g ref="char:EOLhyphen"/>ping like a young colt.</p>
+            <p>But now Reader, from the Tombe of Saint
+<pb n="3" facs="tcp:162479:3"/>
+               <hi>Humphrey,</hi> turne thee to the Bull at Saint <hi>Albons,</hi>
+               <note place="margin">Here begins the Devils ſtory.</note> which Inne is as famous as the Tombe wee ſpoke of; only Reader I pray thee obſerve, that theſe two memorable accidents ſhould happen in the two moſt memorable places of the Towne;<note place="margin">Note Reader.</note> for who haſt not heard of the Tombe of Saint <hi>Humphrey,</hi> and how the old man was cured? And who hath not heard of the Bull at Saint <hi>Albons?</hi> but how the Devill appeared there in the likeneſſe of a Ramme, I ſhall now relate.</p>
+            <p>This Inne called the Bull at Saint <hi>Albons,</hi>
+               <note place="margin">Deſcription of the Bull at Saint <hi>Albons,</hi> with the com<g ref="char:EOLhyphen"/>modities thereof.</note> hath not only good victuals of all ſorts, as fleſh, fiſh, and fowle, to entertaine travellers withall, but al<g ref="char:EOLhyphen"/>ſo good ſtore of refreſhing wine, <hi>viz.</hi> Sack, Claret, and white wine. This wine lieth in a large Cellar that is cut under ground, a great way from the houſe,<note place="margin">Description of the Cellar, where the De<g ref="char:EOLhyphen"/>vill was ſeen.</note> and having no cealing but the earth, out of which it is taken. Now it fortuned that an old acquain<g ref="char:EOLhyphen"/>tance of the Hoaſts travelling that way, came to lodge with his good friend the Hoaſt on mun<g ref="char:EOLhyphen"/>day night laſt, being the 27. of <hi>November</hi> laſt paſt; the good joviall Inne-keeper was very glad to ſee his ancient acquaintance, and as a teſtimony thereof, he commands one of his Drawers to goe downe, and pierce a freſh But of Sack that ſtood at the furthermoſt end of all the Cellar.</p>
+            <p>The Drawer takes a candle in his hand,<note place="margin">The Drawer goes downe into the Cel<g ref="char:EOLhyphen"/>lar.</note> and very nimbly ſlirs downe the ſtaires, goes to the appoint<g ref="char:EOLhyphen"/>ed veſſell, and pierces it but whiles the wine vvas running into the pot, he caſts his eyes aſide, and ſavv a huge black thing like a Ramme,<note place="margin">He ſees the Devill</note> having glaſ<g ref="char:EOLhyphen"/>ſie eyes, ſhag haire, wreathed hornes, and (which
+<pb n="4" facs="tcp:162479:4"/>aſſured him it was the Devill) cloven feet.<note place="margin">Hereafter for ſhame, let none deny that the Devill hath cloven feet.</note> The Dravver ſtood ſo long amazed at this horrid appa<g ref="char:EOLhyphen"/>rition, that the pot overſlowd even to the ground, at leaſt a gallon, and the Drawer being ſo wiſe, as to take care for himſelf in the firſt place,<note place="margin">Note the poli<g ref="char:EOLhyphen"/>cy of this Drawer in the extremity of his feare.</note> for his bet<g ref="char:EOLhyphen"/>ter lightneſſe, flings wine and pot away, and leaving the veſſell running, with a ſtrange alacrity mounts the ſtaires, appearing to his Maſter and Miſtris, and many other beholders, very pale, and diſtracted with ſome ſtrange chance that had happened. At laſt his feare burſt out into theſe words, Oh Maſter! the Devill is in the Cellar, and appeared to me, and I was ſo frighted, that I left the veſſell running, and came up as you ſee; the Hoaſt anſwers him with a box on the eare, which he felt, calling him faint-hearted rogue, and that it was nothing but feare which made him conceit ſuch a thing:<note place="margin">The Hoaſt de<g ref="char:EOLhyphen"/>ſcends the ſtaires, and af<g ref="char:EOLhyphen"/>ter he had ſeen the Devill, ſommerſets them up again.</note> But the Hoaſts wife ſaying, husband, though you venture your ſelfe with the Devill, yet, let us not loſe our wine; the Hoaſt obeyes his wife, and taking a can<g ref="char:EOLhyphen"/>dle, he valiantly deſcends the ſtaires, running vvith all haſt towards the further end of the Cel<g ref="char:EOLhyphen"/>lar, to ſtop the veſſell, the Devill with his hornes meets him full butt in the midſt of the way, the Hoaſt not being uſed to ſee the Devil,<note place="margin">Note that to Somerſet, is to toſſe heels over head, and to light on heeles again, the word is frequent a<g ref="char:EOLhyphen"/>mongſt tum<g ref="char:EOLhyphen"/>blers at this day.</note> knew not how to look on him, but caſting himſelfe backward, like an activetumbler, never left playing the Sommer<g ref="char:EOLhyphen"/>ſet, till he mounted the ſtaires: and ſhaking and qua<g ref="char:EOLhyphen"/>king, ſwore that he had ſeen the fearfulleſt, uglieſt Devill that ever he ſaw in his life, and that he ſhould have all his wine, before he would venture to ſtop a drop of it. Theſe outcries bring all the neighbors
+<pb n="5" facs="tcp:162479:4"/>into the Inn; &amp; amongſt the reſt a Butcher, worthi<g ref="char:EOLhyphen"/>ly deemed, and taken to be the ſtouteſt man,<note place="margin">The Butcher with his in<g ref="char:EOLhyphen"/>dowments deſcribed.</note> both of heart and hands, within the juriſdiction of the Maioraltie, he had broke two armes the laſt foot<g ref="char:EOLhyphen"/>ball playing, and woud knock down an Oxe with an Axe 7 pound lighter at the helme then any other could; briefly,<note place="margin">Note that the Sack run all this while of it own accord.</note> he was the very <hi>George</hi> of <hi>Green</hi> of St <hi>Albons.</hi> The ſaid Butcher manfully looking on theſe affrighted ones, couragiouſly asked what was the matter, or what could make them ſo fear<g ref="char:EOLhyphen"/>full; the Hoaſt replys that the devill was in the Cel<g ref="char:EOLhyphen"/>lar, and had appeared to him and his man in the likeneſſe of a black Ram, telling him withall, how they had left a But of Sack running, and promiſing the Butcher, that if he would venter down and ſtop the veſſel,<note place="margin">The Butcher goes down in<g ref="char:EOLhyphen"/>to the Cellar-Note that non went downe without a can<g ref="char:EOLhyphen"/>dle.</note> he would give him a gallon of the beſt Sack he had; the Butcher looking ſomewhat ſurly, as being angry they ſhould make a doubt of his proweſſe; ſnatches up a candle, and ſwears that he would fetch up the devill Ram, ſtick him, and quar<g ref="char:EOLhyphen"/>ter him, to make amends for the black Ram he had lately loſt.<note place="margin">He ſtopt the veſſell.</note> Armed with this reſolution, down he goes, and nothing regarding the devill, he goes firſt and ſtops the veſſell,<note place="margin">He vanquiſh<g ref="char:EOLhyphen"/>eth and bring<g ref="char:EOLhyphen"/>eth up the De<g ref="char:EOLhyphen"/>vill.</note> &amp; ſuddenly turning himſelf a<g ref="char:EOLhyphen"/>bout, he caſt his angry eye upon the devill, and af<g ref="char:EOLhyphen"/>ter he had looked ſo long, as to perceive how his hornes grew, he ſteps to the devill, and ſeiſeth on his hornes with his approved hands. The cunning devil, knowing by inſtinct, that he could not prevaile a<g ref="char:EOLhyphen"/>gainſt true valour, meek as a ſheep, ſuffers himſelf to be dragged up the ſtaires, the noiſe whereof makes all retire to their ground, at the furthermoſt
+<pb n="6" facs="tcp:162479:5"/>end of the roome,<note place="margin">The Butchers ſpeech after he had brought up the Devill.</note> but the Butcher no ſooner come up with his infernall captive, but thus he ſpeakes, Loe here is that fiend of darkneſſe, which ſhall dearly pay for frighting you, for I vow to manacle his feet,<note place="margin">Some incre<g ref="char:EOLhyphen"/>dulous people ſeeking to de<g ref="char:EOLhyphen"/>ceive the truth, impudently give it our, that the earth falling into the Cellar, a black Ram fell in there<g ref="char:EOLhyphen"/>with, which Ram the Butcher had loſt the day before, <hi>ſed benigne lector utere ſa<g ref="char:EOLhyphen"/>pientia tua.</hi>
+               </note> and carry him to my ſlaughter houſe, cut his throat, flea off his skin, &amp; ſell his fleſh, &amp; this by Lu<g ref="char:EOLhyphen"/>cifer his Prince, I ſweare to performe. Allapplaud<g ref="char:EOLhyphen"/>ed the Butcher, &amp; the Hoaſt thanked him for ſaving his Sack: But the butcher intending to proſecute his revenge againſt the now ſilly quiet devill, hales him to his ſlaughter houſe, cuts his throat, fleas off his skin, ſells all of him but a hinde quarter he had reſerved for his owne ſupper, to which ſupper he invites many of his friends, who eate heartily of his fleſh, and pickt his bones, whilſt the Butchers ſtory of this his atcheivement, together with his hoaſts wine, made excellent ſauce to this helliſh foode, ſo that merrily downe it went the Devill and all,<note place="margin">That the Devill may, and hath often appear<g ref="char:EOLhyphen"/>ed, Read Frier <hi>Ruſh,</hi> Dr. <hi>Fauſtus,</hi> Dr. <hi>Lambe</hi> and that man of men, and glo<g ref="char:EOLhyphen"/>rie of the black art, the famous Lilly now living.</note> at which mirth I leave them.</p>
+            <p>
+               <hi>Claudite jam Rivos, pueri ſat prata biberunt.</hi>
+            </p>
+            <p>I might have inlarged this diſcourſe with a querie, whether cuckolds go to hell or no, ſince as it appears by this ſtory, the devill himſelf hath hornes, but I affect brevity, eſpecially when the queſtion depends not on the thing related.</p>
+            <p>Curteous Reader, I thought good according to <hi>Brittanicus</hi> cuſtom, to add a Comment to this my conciſe relation, this being (as moſt of the learned wil avouch) of equall validitie with any thing he ever writ.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
